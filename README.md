@@ -1,5 +1,6 @@
 Data-Analytics-Capstone-2022
 Cyclistic bikes
+
 The task consists of performing real world tasks of a Junior data analyst by following data analysis process: ask, prepare, process, analyze, share and act. The director of marketing believes that the company's sucess depends on maximising the number of annual memberships. Understanding how casual and member riders use Cyclistic bikes different will help build a new marketing strategy to convert casual riders into annual members. The research must be based on compelling data insights and professional data visualizations.
 
 Key Notes:
